@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lector_De_Lotes/1.0.0": {
+        "runtime": {
+          "Lector_De_Lotes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lector_De_Lotes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

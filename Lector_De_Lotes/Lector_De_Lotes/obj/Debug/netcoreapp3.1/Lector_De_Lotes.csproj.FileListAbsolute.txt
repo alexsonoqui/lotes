@@ -1,0 +1,13 @@
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\bin\Debug\netcoreapp3.1\Lector_De_Lotes.exe
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\bin\Debug\netcoreapp3.1\Lector_De_Lotes.deps.json
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\bin\Debug\netcoreapp3.1\Lector_De_Lotes.runtimeconfig.json
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\bin\Debug\netcoreapp3.1\Lector_De_Lotes.runtimeconfig.dev.json
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\bin\Debug\netcoreapp3.1\Lector_De_Lotes.dll
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\bin\Debug\netcoreapp3.1\Lector_De_Lotes.pdb
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\obj\Debug\netcoreapp3.1\Lector_De_Lotes.AssemblyInfoInputs.cache
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\obj\Debug\netcoreapp3.1\Lector_De_Lotes.AssemblyInfo.cs
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\obj\Debug\netcoreapp3.1\Lector_De_Lotes.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\obj\Debug\netcoreapp3.1\Lector_De_Lotes.dll
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\obj\Debug\netcoreapp3.1\Lector_De_Lotes.pdb
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\obj\Debug\netcoreapp3.1\Lector_De_Lotes.genruntimeconfig.cache
+C:\Users\alexs\Desktop\lotes\Lector_De_Lotes\Lector_De_Lotes\obj\Debug\netcoreapp3.1\Lector_De_Lotes.csprojAssemblyReference.cache
